@@ -25,7 +25,7 @@ Data Science, Machine Learning & AI<br>Generative Deep Learning<br>Advanced Gene
 ![](https://github-contributor-stats.vercel.app/api?username=azazbutt17&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="[https://rm.up.railway.app/](https://miro.medium.com/v2/resize:fit:500/1*qHbAsMNmdWQJkzm2SUA-8w.jpeg)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=azazbutt17&icon=0&color=0)](https://visitcount.itsvg.in)
