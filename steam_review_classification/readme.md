@@ -73,6 +73,12 @@ X_tfidf = tfidf_vectorizer.fit_transform(sampled_data['cleaned_content'])`
 
 `sns.heatmap(cm, annot=True, fmt='d', cmap='Blues')`
 
+## 📚 Dataset Description
+
+The dataset used in this project consists of Steam user reviews, providing textual feedback on various games. Each review includes metadata and a sentiment label indicating whether the review is positive or negative. The dataset enables the application of natural language processing techniques to predict sentiment based on text.
+
+Dataset Source: <a href="https://www.kaggle.com/datasets/filipkin/steam-reviews">Steam Reviews Dataset</a>
+
 ## 🏆 Results
 
 The project provides:
