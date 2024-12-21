@@ -1,0 +1,1 @@
+- This directory contains notebooks in seperate folders for training machine and deep learning models for classification of steam reviews.
