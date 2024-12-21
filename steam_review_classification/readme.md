@@ -15,7 +15,7 @@ The goal of this project is to classify textual data into categories (e.g., Posi
 
 > Key features include preprocessing, feature engineering, and detailed performance evaluation.
 
-📂 ## Repository Structure
+## 📂 Repository Structure
 
 project-root/
 ├── data/                   # Raw and cleaned datasets
