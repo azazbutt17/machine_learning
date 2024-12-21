@@ -2,7 +2,7 @@
 
 Welcome to this machine learning project that explores text classification using various models and vectorization techniques. This repository demonstrates a robust pipeline for processing textual data and applying machine learning algorithms to achieve accurate predictions.
 
-📝 ## Project Overview
+## 📝 Project Overview
 
 The goal of this project is to classify textual data into categories (e.g., Positive/Negative) using:
 
@@ -24,7 +24,7 @@ project-root/
 ├── results/                # Performance metrics and visualizations
 └── README.md               # Project documentation (this file)
 
-🔧 ## Installation
+## 🔧 Installation
 
 Clone this repository:
 
@@ -33,9 +33,9 @@ cd your-repo-name
 
 Install the required packages:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
-🛠️ ## Workflow
+## 🛠️ Workflow
 
 - Data Preprocessing:
   - Tokenization, lemmatization, and removal of stopwords.
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 - Sample Predictions:
   - Visualize predictions on random text samples.
 
-📊 ## Key Steps in the Notebook
+## 📊 Key Steps in the Notebook
 
 ### Import Libraries:
 
@@ -72,24 +72,24 @@ X_tfidf = tfidf_vectorizer.fit_transform(sampled_data['cleaned_content'])`
 
 `sns.heatmap(cm, annot=True, fmt='d', cmap='Blues')`
 
-🏆 ## Results
+## 🏆 Results
 
 The project provides:
 
 - Confusion matrices for better insights into model performance.
 - Sample predictions for validation.
 
-🌟 ## Future Work
+## 🌟 Future Work
 
 - Incorporating deep learning models like LSTMs or BERT for improved accuracy.
 - Adding more datasets to generalize the models.
 - Implementing a web interface for real-time predictions.
 
-🤝 ## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-📜 ## License
+## 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
